@@ -4,6 +4,22 @@
     "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Proyecto Datos.csproj": {}
   },
   "projects": {
+    "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClient\\MQClient.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClient\\MQClient.csproj",
+        "projectName": "MQClient",
+        "projectPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClient\\MQClient.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Proyecto Datos.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +47,11 @@
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClient\\MQClient.csproj": {
+                "projectPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClient\\MQClient.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

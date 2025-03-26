@@ -1,0 +1,7 @@
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\bin\Debug\MQBroker.exe.config
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\bin\Debug\MQBroker.exe
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\bin\Debug\MQBroker.pdb
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\obj\Debug\MQBroker.csproj.AssemblyReference.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\obj\Debug\MQBroker.csproj.CoreCompileInputs.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\obj\Debug\MQBroker.exe
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQBroker\obj\Debug\MQBroker.pdb

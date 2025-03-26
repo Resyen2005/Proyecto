@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0-windows7.0": {}
+    "net9.0-windows7.0": {
+      "MQClientLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MQClientLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MQClientLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MQClientLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MQClientLibrary/MQClientLibrary.csproj",
+      "msbuildProject": "../MQClientLibrary/MQClientLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0-windows7.0": []
+    "net9.0-windows7.0": [
+      "MQClientLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\RESYEN\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Proyecto Datos.csproj",
-      "projectName": "Proyecto Datos",
-      "projectPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Proyecto Datos.csproj",
+      "projectUniqueName": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Aplicacion.csproj",
+      "projectName": "Aplicacion",
+      "projectPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\RESYEN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\Proyecto Datos\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClientLibrary\\MQClientLibrary.csproj": {
+              "projectPath": "C:\\Users\\RESYEN\\OneDrive\\Documents\\GitHub\\Proyecto\\Proyecto Datos\\MQClientLibrary\\MQClientLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

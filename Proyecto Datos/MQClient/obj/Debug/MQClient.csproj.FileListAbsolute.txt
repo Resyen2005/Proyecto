@@ -1,0 +1,2 @@
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClient\obj\Debug\MQClient.csproj.AssemblyReference.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClient\obj\Debug\MQClient.csproj.CoreCompileInputs.cache

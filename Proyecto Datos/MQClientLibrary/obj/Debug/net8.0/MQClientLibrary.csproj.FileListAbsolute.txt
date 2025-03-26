@@ -1,0 +1,12 @@
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\bin\Debug\net8.0\MQClientLibrary.deps.json
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\bin\Debug\net8.0\MQClientLibrary.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\bin\Debug\net8.0\MQClientLibrary.pdb
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.AssemblyInfoInputs.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.AssemblyInfo.cs
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.sourcelink.json
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\refint\MQClientLibrary.dll
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\MQClientLibrary.pdb
+C:\Users\RESYEN\OneDrive\Documents\GitHub\Proyecto\Proyecto Datos\MQClientLibrary\obj\Debug\net8.0\ref\MQClientLibrary.dll
