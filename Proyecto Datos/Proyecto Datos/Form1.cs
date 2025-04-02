@@ -13,9 +13,7 @@ namespace Proyecto_Datos
             InitializeComponent();
         }
 
-        // Evento para inicializar el MQClient cuando se haga clic, por ejemplo, en un botón
-        // o cuando desees crear la conexión.
-        // Si deseas que se cree automáticamente cuando arranca la app, podrías hacerlo en el Load del formulario.
+        // Evento para inicializar el MQClient cuando se haga clic
         private void btnCrearCliente_Click_1(object sender, EventArgs e)
         {
             try
@@ -139,8 +137,7 @@ namespace Proyecto_Datos
                 // Llamamos a Receive para obtener un mensaje
                 MQClientLibrary.Message receivedMsg = client.Receive(topic);
 
-                // Agregamos el mensaje recibido al DataGridView
-                // Asumiendo que dgvMensajes tiene dos columnas: "Tema" y "Contenido"
+                // Agregamos el mensaje recibido al DataGridView           
                 dgvMensajes.Rows.Add(topic.Name, receivedMsg.Content);
             }
             catch (Exception ex)

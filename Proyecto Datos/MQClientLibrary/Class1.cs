@@ -10,7 +10,7 @@ namespace MQClientLibrary
         private readonly Guid appId;
 
         /// <summary>
-        /// Constructor que inicializa el cliente para comunicarse con el MQBroker.
+        /// Constructor que inicia el cliente para comunicarse con el MQBroker.
         /// </summary>
         /// <param name="ip">IP del broker</param>
         /// <param name="port">Puerto del broker</param>
@@ -136,7 +136,7 @@ namespace MQClientLibrary
                 throw new Exception("No hay mensajes en la cola.");
             else
             {
-                // Se asume que la respuesta es el contenido del mensaje.
+                // La respuesta es el contenido del mensaje.
                 return new Message(response);
             }
         }

@@ -143,7 +143,7 @@ namespace MQBroker
         }
     }
 
-    // Clase que representa una suscripción con su cola exclusiva
+    // Clase que representa una suscripción con cola exclusiva
     class Subscription
     {
         public Guid AppId;
@@ -158,7 +158,7 @@ namespace MQBroker
         }
     }
 
-    // Lista enlazada personalizada para manejar las suscripciones
+    // Lista enlazada para manejar las suscripciones
     class SubscriptionList
     {
         private class SubscriptionNode
